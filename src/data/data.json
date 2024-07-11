@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "titulo": "Memoria Ram",
+        "descripcion": "Tarjetas de Memoria Ram.",
+        "categoria": "Memoria Ram",
+        "imagen": "https://s1.elespanol.com/2018/06/07/actualidad/actualidad_313234074_130230320_1706x960.jpg",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Procesador",
+        "descripcion": "potente de Intel pero no lo verás en un PC.",
+        "categoria": "Procesador",
+        "imagen": "https://phantom-elmundo.unidadeditorial.es/bc9e844cfda2bc5d3627403a4baab349/resize/1200/f/webp/assets/multimedia/imagenes/2019/04/12/15550761217888.jpg",
+        "precio": 1300,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Tarjeta gráfica",
+        "descripcion": "Tarjeta Grafica RTX 4060.",
+        "categoria": "Tarjeta gráfica",
+        "imagen": "https://hardzone.es/app/uploads-hardzone.es/2018/03/GPU-vs-tarjeta-gr%C3%A1fica-edit-1200x675.jpg",
+        "precio": 900,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Líquidos Refrigerantes PC",
+        "descripcion": "ARCTIC Liquid Freezer III 360 PC.",
+        "categoria": "Líquidos  PC",
+        "imagen": "https://jyrtechnology.com.co/wp-content/uploads/2023/06/RF-005-1.jpg",
+        "precio": 200,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Monitor 24 pulgadas regulable",
+        "descripcion": "Máxima comodidad gracias al soporte ajustable incluido.",
+        "categoria": "Monitor 24 pulgadas regulable",
+        "imagen": "https://deepgaming.es/wp-content/uploads/2024/02/MON24FHD-deepgaming-monitores-monitor-24-pulgadas-regulable-0.jpg",
+        "precio": 135,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Disco duro SSD",
+        "descripcion": "Disco duro SSD Adata ULTIMATE SU630 240GB - Versus Gamers.",
+        "categoria": "Disco duro SSD",
+        "imagen": "https://www.vsgamers.es/thumbnails/product_gallery_large/uploads/products/adata/discos-duros/disco-duro-ssd-adata-ultimate-su630-240gb/galeria/disco-duro-ssd-adata-ultimate-su630-240gb-photos-image-d68a7a97451106a1203592ea672f80.jpeg",
+        "precio": 55,
+        "stock": 10
+    }
+    
+]
